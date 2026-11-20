@@ -1,0 +1,6 @@
+{
+  "name": "BioTrack – Biomedical Equipment Asset Management System",
+  "description": "Centralized hospital biomedical engineering software for medical equipment inventory, preventive maintenance, breakdown tickets, calibration records, warranty/AMC tracking, QR asset lookup, and compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
